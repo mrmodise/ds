@@ -1,6 +1,7 @@
 {
   "packages": [
-    "projects/*"
+    "projects/button",
+    "projects/input"
   ],
   "version": "independent",
   "command": {

@@ -42,4 +42,6 @@ testem.log
 
 # System Files
 .DS_Store
-Thumbs.db
+Thumbs.d
+projects/button/node_modules
+projects/input/node_modules
