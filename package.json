@@ -8,7 +8,7 @@
     "build:all": "ng build && ng build --project=input",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "release": "cross-env CI=1 lerna version && lerna publish from-git --yes",
+    "release": "cross-env CI=1 lerna version && lerna publish from-git --yes"
   },
   "private": false,
   "dependencies": {
